@@ -1,0 +1,17 @@
+body
+{
+    background-color: palevioletred;
+    color: yellow;
+}
+
+#familylist
+{
+    color: black;
+    background-color: rgb(244, 244, 50);
+    border-radius: 5px;
+    width: 200px;
+    border-color: black;
+    border-width: 2px;
+    border-style:dotted;
+    text-align: center;
+}
